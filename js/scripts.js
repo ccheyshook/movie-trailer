@@ -1,3 +1,3 @@
-// Awesome Interaction
+// My scripts
 
-condol.log('Hello!');
+$('h1').lettering();

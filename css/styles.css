@@ -1,4 +1,18 @@
 /* Awesome Styling */
 h1 {
-  color: blanchedalmond;
+  color: teal;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.char1 {
+  color: pink;
+}
+.char2 {
+  color: purple;
+  letter-spacing: -5px;
+}
+.char3 {
+  color: blue;
 }
