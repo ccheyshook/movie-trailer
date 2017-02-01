@@ -1,18 +1,3 @@
-/* Awesome Styling */
-h1 {
-  color: teal;
-  font-size: 6em;
-  text-transform: uppercase;
-  text-align: center;
-}
+body{background:pink}h1{text-transform:uppercase}
 
-.char1 {
-  color: pink;
-}
-.char2 {
-  color: purple;
-  letter-spacing: -5px;
-}
-.char3 {
-  color: blue;
-}
+/*# sourceMappingURL=styles.css.map */
