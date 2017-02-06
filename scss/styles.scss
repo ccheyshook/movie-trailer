@@ -1,14 +1,6 @@
-/* Main Stylesheet */
+/* Grand Central Station - TOC - Hub */
 
-/* Color Palette */
-$primary-color: pink;
-$secondary-color: teal;
-
-body {
-    background: pink;
-}
-
-h1 {
-    color: $secondary-color;
-    text-transform: uppercase;
-}
+@import "global";
+@import "typography";
+@import "grid";
+@import "video";
