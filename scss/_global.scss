@@ -1,8 +1,8 @@
 // Global Stylesheet
 
 // Color Palette
-$primary-color: gold;
-$secondary-color: purple;
+$primary-color: black;
+$secondary-color: #B22222;
 
 // Typography
 // Hide for Mobile & Tablet
@@ -10,13 +10,16 @@ article h1 {
     display: none; 
 }
 
+h1 {
+    color: $secondary-color;
+}
+
+body {
+    background: #A9A9A9;
+}
 
 // Video Player Styling
 video {
     max-width: 100%;
     width: 100%;
-}
-
-mejs__time-total {
-    background-color: red; 
 }
